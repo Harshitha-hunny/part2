@@ -1,4 +1,6 @@
 # part2
+**requiremnts.txt is not uploaded as txt file**
+
 RFM Segmentation &amp; Retention Strategy
 
 
